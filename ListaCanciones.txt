@@ -1,0 +1,1 @@
+digraph {rankdir=LR;"cancion con c"->"bancion con b"[dir = both];"bancion con b"->"hancion con h"[dir = both];"hancion con h"->"cancion con c"[dir = both]}

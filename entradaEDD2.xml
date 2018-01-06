@@ -5,7 +5,7 @@
             <pass>123</pass>
         </usuario>
         <usuario>
-            <nombre>jose</nombre>
+            <nombre>daniel</nombre>
             <pass>1234</pass>
         </usuario>
         <usuario>
@@ -83,7 +83,48 @@
                     <anio>2012</anio>
                     <canciones>
                         <cancion>
-                            <nombre>shadows (outer club solar)</nombre>
+                            <nombre>cancion2</nombre>
+                            <path>C:\cancionesEDD\Brian Tuey\CALL OF DUTY  BLACK OPS II\Shadows (Outer Club Solar).mp3</path>
+                        </cancion>
+                    </canciones>
+                </album>
+				<album>
+                    <nombre>album 2</nombre>
+                    <genero>(24)soundtrack</genero>
+                    <anio>2012</anio>
+                    <canciones>
+                        <cancion>
+                            <nombre>cancion3</nombre>
+                            <path>C:\cancionesEDD\Brian Tuey\CALL OF DUTY  BLACK OPS II\Shadows (Outer Club Solar).mp3</path>
+                        </cancion>
+                    </canciones>
+                </album>
+				<album>
+                    <nombre>album</nombre>
+                    <genero>(24)soundtrack</genero>
+                    <anio>2012</anio>
+                    <canciones>
+                        <cancion>
+                            <nombre>cancion4</nombre>
+                            <path>C:\cancionesEDD\Brian Tuey\CALL OF DUTY  BLACK OPS II\Shadows (Outer Club Solar).mp3</path>
+                        </cancion>
+                    </canciones>
+                </album>
+				<album>
+                    <nombre>zalbum con z</nombre>
+                    <genero>(24)soundtrack</genero>
+                    <anio>2012</anio>
+                    <canciones>
+                        <cancion>
+                            <nombre>cancion con c</nombre>
+                            <path>C:\cancionesEDD\Brian Tuey\CALL OF DUTY  BLACK OPS II\Shadows (Outer Club Solar).mp3</path>
+                        </cancion>
+						<cancion>
+                            <nombre>bancion con b</nombre>
+                            <path>C:\cancionesEDD\Brian Tuey\CALL OF DUTY  BLACK OPS II\Shadows (Outer Club Solar).mp3</path>
+                        </cancion>
+						<cancion>
+                            <nombre>hancion con h</nombre>
                             <path>C:\cancionesEDD\Brian Tuey\CALL OF DUTY  BLACK OPS II\Shadows (Outer Club Solar).mp3</path>
                         </cancion>
                     </canciones>
@@ -804,7 +845,7 @@
             <nombre>bob marley</nombre>
             <albumes>
                 <album>
-                    <nombre></nombre>
+                    <nombre>hola</nombre>
                     <genero>(12)other</genero>
                     <anio>1995</anio>
                     <canciones>

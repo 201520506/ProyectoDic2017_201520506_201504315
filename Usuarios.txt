@@ -1,0 +1,1 @@
+digraph { marco->daniel[dir = both];daniel->elmer[dir = both];elmer->vivian[dir = both];vivian->zussette[dir = both];zussette->renato[dir = both];renato->jose[dir = both];jose->rolando[dir = both];rolando->matilde[dir = both];matilde->david[dir = both];david->mike[dir = both];mike->max[dir = both];max->dean[dir = both];dean->edgar[dir = both];edgar[dir = both]}
